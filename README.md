@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HatsuDev39
-- I’m interested in learning whatever I can, maybe look into AI stuffs later on.
 - 🌱 I’m currently learning Python and Git on Boot.Dev
 - 💞️ I’m looking to collaborate on ... who knows!
 
